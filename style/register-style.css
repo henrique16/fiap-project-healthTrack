@@ -1,0 +1,41 @@
+.cadastro{
+}
+
+.intr-register{
+    padding: 10px 20px;
+}
+
+.intr-register div span{
+    padding: 10px;
+    display: block;
+    font-weight: 600;
+}
+
+.intr-register div p{
+    margin: 0;
+    padding: 0 10px;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: justify;
+}
+
+.info-register{
+    padding: 0 20px 20px;
+}
+
+.info-register div{
+    line-height: 4em;
+}
+
+.info-register div#sexo label{
+    font-size: 13px;
+}
+
+.info-register div#sexo span{
+    font-size: 25px;
+    padding: 0 10px;
+}
+
+.info-register div#sexo span#male{
+    padding-right: 50px !important;
+}

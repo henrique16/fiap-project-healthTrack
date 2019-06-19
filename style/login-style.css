@@ -1,0 +1,52 @@
+.login{
+    padding: 20px 0;
+}
+
+.intr-login{
+    padding: 20px;
+}
+
+.Indroduction div{
+    background-color: #f5f5f5;
+}
+
+.intr-login span{
+    padding: 10px;
+    display: block;
+    font-weight: 600;
+    color: #505050;
+}
+
+.intr-login p{
+    margin: 0;
+    padding: 0 10px 10px;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: justify;
+}
+
+.reg-login{
+    padding: 0 20px;
+}
+
+.reg-login div {
+    padding: 10px 0;
+    width: 100%;
+}
+
+.reg-login div#btn{
+    padding: 40px 0 10px;
+}
+
+.reg-login div#google{
+    border: solid 2px #4aabcc;
+    cursor: pointer;
+}
+
+.reg-login div#google:hover{
+    box-shadow: 0 4px 8px 0 #bbb;
+}
+
+.reg-login div#google span{
+    padding: 0 10px;
+}
